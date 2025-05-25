@@ -45,7 +45,7 @@
 
 - **Bachelors of Computer Science (BCS)**  
   Dr. Babasaheb Ambedkar Marathwada University, Sambhajinagar  
-  *2021 – 2024*
+  *2022 – 2024*
 
 - **Higher Secondary (12th)**  
   Shri Nigmanand Vidyalay, Nimgoan Mayamba – 83%  
