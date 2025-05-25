@@ -1,4 +1,4 @@
-<h1 style="transform: translateX(20px); transition: 1s;">Hi 👋, I'm Tushar Babar</h1>
+<h1 >Hi 👋, I'm Tushar Babar</h1>
 
 <h2 >A passionate Java Developer </h2>
 <br>
