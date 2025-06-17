@@ -1,6 +1,6 @@
 <h1 >Hi 👋, I'm Tushar Babar</h1>
 
-<h2 >A passionate Java Developer </h2>
+<h2 >A passionate frontend  Developer </h2>
 <br>
 
 - 🌱 I’m currently learning **Java, MySQL, HTML, CSS, JavaScript**
