@@ -1,9 +1,3 @@
-<h1>
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    👋 Hi, I'm Tushar Babar — Frontend & Java Developer
-  </marquee>
-</h1>
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&lines=Tushar+Babar;Frontend+Developer;Java+%7C+SQL+%7C+JS+Learner" alt="Tushar Babar animated intro" />
