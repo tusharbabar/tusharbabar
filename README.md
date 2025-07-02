@@ -1,4 +1,9 @@
-<h1>Hi 👋, I'm Tushar Babar</h1>
+<h1>
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    👋 Hi, I'm Tushar Babar
+  </marquee>
+</h1>
+
 
 <h2>A passionate Frontend Developer</h2>
 <br>
