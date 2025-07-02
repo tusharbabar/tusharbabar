@@ -1,13 +1,13 @@
-<h1 >Hi 👋, I'm Tushar Babar</h1>
+<h1>Hi 👋, I'm Tushar Babar</h1>
 
-<h2 >A passionate frontend  Developer </h2>
+<h2>A passionate Frontend Developer</h2>
 <br>
 
 - 🌱 I’m currently learning **Java, MySQL, HTML, CSS, JavaScript**
 
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/tusharbabar?tab=repositories)
 
-- 📫 How to reach me **babartushar560@gmail.com**
+- 📫 How to reach me: **babartushar560@gmail.com**
 
 - 📄 Know about my experiences: [My Resume](https://github.com/tusharbabar)
 
@@ -44,25 +44,29 @@
 
 ### 📚 Education
 
-- **Bachelors of Computer Science (BCS)**  
+- **Bachelor of Computer Science (BCS)**  
   Dr. Babasaheb Ambedkar Marathwada University, Sambhajinagar  
-  *2022 – 2025*
+  📅 *2022 – 2025*  
+  📊 *CGPA: 8.22 
+  📈 *Percentage Equivalent: ~82.02%*
 
 - **Higher Secondary (12th)**  
-  Shri Nigmanand Vidyalay, Nimgoan Mayamba – 83%  
-  *2020 – 2021*
+  Shri Nigmanand Vidyalay, Nimgaon Mayamba  
+  🏆 *Score: 83.00%*  
+  📅 *2020 – 2021*
 
 - **Secondary (10th)**  
-  Shri Nigmanand Vidyalay, Nimgoan Mayamba – 70.40%  
-  *2018 – 2019*
+  Shri Nigmanand Vidyalay, Nimgaon Mayamba  
+  🏆 *Score: 70.40%*  
+  📅 *2018 – 2019*
 
 ---
 
 ### 🚀 Goals
 
-- Secure an entry-level software development role  
-- Contribute to open-source Java projects  
-- Build full-stack web applications
+- ✅ Secure an entry-level software development role  
+- ✅ Contribute to open-source Java projects  
+- ✅ Build full-stack web applications
 
 ---
 
