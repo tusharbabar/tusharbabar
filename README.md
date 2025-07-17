@@ -3,11 +3,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Babar;Frontend+Developer+%7C+Java+%7C+SQL+%7C+JS;Always+learning+%26+building!" alt="Typing SVG" />
-</p>
-
----
 
 ### 👨‍💻 About Me
 
