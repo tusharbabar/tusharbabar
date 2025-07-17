@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **babartushar560@gmail.com**
 
-- 📄- 📄 Know about my experiences: [My Resume](https://github.com/tusharbabar/Resume Tushar b.pdf)
+- 📄- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ok_mydCVJf8f5og6QNPebZHpbsGAIHaI/view?usp=sharing)
 
 
 - ⚡ Fun fact: I love solving real-world problems and continuously improving my skills!
