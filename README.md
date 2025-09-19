@@ -15,6 +15,7 @@ I’m **Tushar Babar**, a passionate and enthusiastic **Frontend Developer** wit
 - 🚀 My goal is to contribute to impactful projects and grow as a software developer.
 
 - 🌱 I’m currently learning **Java, MySQL, HTML, CSS, JavaScript**
+- small webpage live link:https://tusharbabar.github.io/BrainWave_Solution_PVT/
 
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/tusharbabar?tab=repositories)
 
