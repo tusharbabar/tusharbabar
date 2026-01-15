@@ -116,7 +116,7 @@ Score: **70.40%** | *2018 – 2019*
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babartushar560@gmail.com)
 
 📄 **Resume:**  
-👉 https://drive.google.com/file/d/1ok_mydCVJf8f5og6QNPebZHpbsGAIHaI/view
+👉 https://drive.google.com/file/d/1ir3zUXU9MUrSQPse0Dj2NTcLjVyPYbAz/view?usp=sharing
 
 ---
 
