@@ -35,6 +35,9 @@ I’m **Tushar Babar**, a passionate **Frontend Developer** with strong knowledg
 👉 https://portfolio-tushar-70.vercel.app/
 
 ---
+📄 **Resume:**  
+👉 https://drive.google.com/file/d/1gI1PmFaL7LGS8-K_aYwd1v5uv_7n_MaC/view?usp=sharing
+
 
 ## 📂 Projects
 
@@ -115,8 +118,6 @@ Score: **70.40%** | *2018 – 2019*
 [![LinkedIn](https://img.shields.io/badge/Tushar%20Babar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-babar-69643a292)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babartushar560@gmail.com)
 
-📄 **Resume:**  
-👉 https://drive.google.com/file/d/1gI1PmFaL7LGS8-K_aYwd1v5uv_7n_MaC/view?usp=sharing
 
 ---
 
