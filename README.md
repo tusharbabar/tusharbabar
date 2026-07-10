@@ -52,7 +52,7 @@ I'm **Tushar Babar**, a passionate **Frontend Developer** with a strong foundati
 ✅ Responsive Admin Dashboard
 
 🌐 Live Demo:
-https://quickcartapp.vercel.app/
+https://product-managment-s.vercel.app/
 
 ---
 
